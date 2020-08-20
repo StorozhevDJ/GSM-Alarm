@@ -1,3 +1,11 @@
+/**
+  ******************************************************************************
+  * @file    main.c
+  * @author  Storozhev Denis
+  * @version V1.4.0
+  * @date    15-April-2013
+  * @brief   main source file.
+  ******************************************************************************/
 
 #include <string.h>
 #include <stdio.h>
@@ -22,7 +30,7 @@
 
 #include "iButton/iButton.h"
 
-//My +7-968-105-52-93
+
 
 
 Tphone_book phone_book[10];
